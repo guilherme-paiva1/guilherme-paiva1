@@ -1,6 +1,6 @@
 Guilherme Vieira Moreira de Paiva
                               He/him
-# Student at @BandTec, 1º semester
+# Student at @BandTec, 1st semester
 
 In love with tech since I'm 6.
 
